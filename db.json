@@ -1,11 +1,9 @@
 {
-  "user": [
-    "id": 1,
-    "fname": "Chonnakarn",
-    "lname": "Promyoo",
-    "height": "170.1",
-    "weight": "52.3",
-    "age": 22,
-    "dob": 25400706
-    ]
+  "id": 1,
+  "fname": "Chonnakarn",
+  "lname": "Promyoo",
+  "height": "170.1",
+  "weight": "52.3",
+  "age": 22,
+  "dob": 25400706
 }
